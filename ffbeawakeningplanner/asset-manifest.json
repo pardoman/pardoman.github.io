@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.4aab4c7d.css",
   "main.css.map": "static/css/main.4aab4c7d.css.map",
-  "main.js": "static/js/main.0c27d7a2.js",
-  "main.js.map": "static/js/main.0c27d7a2.js.map",
+  "main.js": "static/js/main.5cf5755f.js",
+  "main.js.map": "static/js/main.5cf5755f.js.map",
   "static/media/29px-Icon-Fairies_Writ.png": "static/media/29px-Icon-Fairies_Writ.670c0b32.png",
   "static/media/32px-Icon-Calamity_Gem.png": "static/media/32px-Icon-Calamity_Gem.e4f02e3f.png",
   "static/media/32px-Icon-Calamity_Writ.png": "static/media/32px-Icon-Calamity_Writ.e72c10ba.png",
@@ -15,6 +15,8 @@
   "static/media/Cloud_of_Darkness-6.png": "static/media/Cloud_of_Darkness-6.9598bffc.png",
   "static/media/Dark_Knight_Cecil-6.png": "static/media/Dark_Knight_Cecil-6.0a0e2c6d.png",
   "static/media/Delita-6.png": "static/media/Delita-6.82df795f.png",
+  "static/media/Demon_Rain-6.png": "static/media/Demon_Rain-6.ff40bf49.png",
+  "static/media/Dracu_Lasswell-6.png": "static/media/Dracu_Lasswell-6.ff518f9b.png",
   "static/media/Exdeath-6.png": "static/media/Exdeath-6.edca3022.png",
   "static/media/Firion-6.png": "static/media/Firion-6.1f189f24.png",
   "static/media/Garland-6.png": "static/media/Garland-6.9fccfd6e.png",
@@ -30,6 +32,7 @@
   "static/media/Terra-6.png": "static/media/Terra-6.a6985238.png",
   "static/media/Vaan-6.png": "static/media/Vaan-6.9b4e369c.png",
   "static/media/Warrior_of_Light-6.png": "static/media/Warrior_of_Light-6.37cbce64.png",
+  "static/media/White_Witch_Fina-6.png": "static/media/White_Witch_Fina-6.61611294.png",
   "static/media/refia_victory.gif": "static/media/refia_victory.8bd3026a.gif",
   "static/media/wiki-site-logo.jpg": "static/media/wiki-site-logo.e36e2d5c.jpg"
 }

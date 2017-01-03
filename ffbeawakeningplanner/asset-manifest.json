@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.89da9420.css",
-  "main.css.map": "static/css/main.89da9420.css.map",
-  "main.js": "static/js/main.dffa7447.js",
-  "main.js.map": "static/js/main.dffa7447.js.map",
+  "main.css": "static/css/main.5b93c133.css",
+  "main.css.map": "static/css/main.5b93c133.css.map",
+  "main.js": "static/js/main.0d2ef5af.js",
+  "main.js.map": "static/js/main.0d2ef5af.js.map",
   "static/media/29px-Icon-Fairies_Writ.png": "static/media/29px-Icon-Fairies_Writ.670c0b32.png",
   "static/media/32px-Icon-Calamity_Gem.png": "static/media/32px-Icon-Calamity_Gem.e4f02e3f.png",
   "static/media/32px-Icon-Calamity_Writ.png": "static/media/32px-Icon-Calamity_Writ.e72c10ba.png",
@@ -48,6 +48,7 @@
   "static/media/Vaan-6.png": "static/media/Vaan-6.9b4e369c.png",
   "static/media/Warrior_of_Light-6.png": "static/media/Warrior_of_Light-6.37cbce64.png",
   "static/media/White_Witch_Fina-6.png": "static/media/White_Witch_Fina-6.61611294.png",
+  "static/media/pc_cmn_frame_lt.png": "static/media/pc_cmn_frame_lt.3bb2288f.png",
   "static/media/refia_victory.gif": "static/media/refia_victory.8bd3026a.gif",
   "static/media/wiki-site-logo.jpg": "static/media/wiki-site-logo.e36e2d5c.jpg"
 }

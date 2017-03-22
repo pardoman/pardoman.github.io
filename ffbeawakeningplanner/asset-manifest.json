@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.5b93c133.css",
   "main.css.map": "static/css/main.5b93c133.css.map",
-  "main.js": "static/js/main.942dfdc1.js",
-  "main.js.map": "static/js/main.942dfdc1.js.map",
+  "main.js": "static/js/main.435e5d53.js",
+  "main.js.map": "static/js/main.435e5d53.js.map",
   "static/media/29px-Icon-Fairies_Writ.png": "static/media/29px-Icon-Fairies_Writ.670c0b32.png",
   "static/media/32px-Icon-Calamity_Gem.png": "static/media/32px-Icon-Calamity_Gem.e4f02e3f.png",
   "static/media/32px-Icon-Calamity_Writ.png": "static/media/32px-Icon-Calamity_Writ.e72c10ba.png",
@@ -53,6 +53,7 @@
   "static/media/Unit-Santa_Roselia-6.png": "static/media/Unit-Santa_Roselia-6.183f1cb4.png",
   "static/media/Unit-Seven-6.png": "static/media/Unit-Seven-6.fe9f1e57.png",
   "static/media/Unit-Shine-6.png": "static/media/Unit-Shine-6.1194be2d.png",
+  "static/media/Unit-Soleil-6.png": "static/media/Unit-Soleil-6.556bf19d.png",
   "static/media/Unit-White_Knight_Noel-6.png": "static/media/Unit-White_Knight_Noel-6.2803daa8.png",
   "static/media/Unit-Xiao-6.png": "static/media/Unit-Xiao-6.1e83ada9.png",
   "static/media/Unit-Y'shtola-6.png": "static/media/Unit-Y'shtola-6.26e5a38e.png",
